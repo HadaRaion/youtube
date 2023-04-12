@@ -1,11 +1,27 @@
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './App.css';
 
+import Root from './pages/Root';
+import Home from './pages/Home';
+import Videos from './pages/Videos';
+import VideoDetail from './pages/VideoDetail';
+import NotFound from './pages/NotFound';
+
+const router = createBrowserRouter([
+	{
+		path: '/',
+		element: <Root />,
+		errorElement: <NotFound />,
+		children: [
+			{ index: true, element: <Home /> },
+			{ path: 'videos', element: <Videos /> },
+			{ path: 'videos/:videoId', element: <VideoDetail /> },
+		],
+	},
+]);
+
 function App() {
-	return (
-		<div className="App">
-			<h1 className="text-4xl font-bold underline text-9xl">Hello world!</h1>
-		</div>
-	);
+	return <RouterProvider router={router} />;
 }
 
 export default App;
