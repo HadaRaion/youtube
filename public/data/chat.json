@@ -1,0 +1,862 @@
+{
+	"kind": "youtube#searchListResponse",
+	"etag": "JLgzP9AKouwGngXPcDzAkrUy9H8",
+	"nextPageToken": "CBkQAA",
+	"regionCode": "CA",
+	"pageInfo": {
+		"totalResults": 1000000,
+		"resultsPerPage": 25
+	},
+	"items": [
+		{
+			"kind": "youtube#searchResult",
+			"etag": "2h-kwfINjqKU5EKCX63lPPRHQ4Y",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "2H6yCupzLzY"
+			},
+			"snippet": {
+				"publishedAt": "2023-04-12T02:39:06Z",
+				"channelId": "UCKjU3KzdbJE1EFcHVqXC3_g",
+				"title": "How could ChatGPT change my life?",
+				"description": "Experts say the proliferation of ChatGPT comes with some good, some bad and a bit of ugly. CBC's Ellen Mauro explores how the ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/2H6yCupzLzY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/2H6yCupzLzY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/2H6yCupzLzY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "CBC News: The National",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-04-12T02:39:06Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "ra87AX_ShLsNFGcygOlWeGcw1jU",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "lioFmitR2nE"
+			},
+			"snippet": {
+				"publishedAt": "2023-04-12T15:01:04Z",
+				"channelId": "UC4xKdmAXFh4ACyhpiQ_3qBw",
+				"title": "Using ChatGPT to Trade Crypto and make money.",
+				"description": "Ex-Google TechLead combines ChatGPT AI with crypto trading bots. Try ChatGPT crypto trading: ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/lioFmitR2nE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/lioFmitR2nE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/lioFmitR2nE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "TechLead",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-04-12T15:01:04Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "JVW85cgpj8KU4xYd8CesH67JmZ0",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "DzDghs79Cy0"
+			},
+			"snippet": {
+				"publishedAt": "2023-04-12T20:55:41Z",
+				"channelId": "UCIfI7Yo22SMKp5PraztHM6w",
+				"title": "ChatGPT, SZTUCZNA INTELIGENCJA, NOWE TECHNOLOGIE. PSYLLOS I STANOWSKI. HEJT PARK: JESTEŚMY NA TY",
+				"description": "Audycja przeznaczona dla osób powyżej 16. roku życia. #HejtPark - Jesteśmy Na Ty - Petros Psyllos, elektronik, programista i ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/DzDghs79Cy0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/DzDghs79Cy0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/DzDghs79Cy0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Kanał Sportowy",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-04-12T20:55:41Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "wmv-9qKEmfNXeN452jqSXkPSCzQ",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "Gaf_jCnA6mc"
+			},
+			"snippet": {
+				"publishedAt": "2023-04-04T18:09:53Z",
+				"channelId": "UCTQuKo8v0PaPCvk5aRxc_Yg",
+				"title": "ChatGPT Tutorial: How to Use Chat GPT For Beginners 2023",
+				"description": "In this video, I'm going to give you a complete course on how to use the AI tool ChatGPT, and I guarantee that you'll become an ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Gaf_jCnA6mc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Gaf_jCnA6mc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Gaf_jCnA6mc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Charlie Chang",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-04-04T18:09:53Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "NeNC5k_0BLWK4FLgNllRFqpakbI",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "jHv63Uvk5VA"
+			},
+			"snippet": {
+				"publishedAt": "2023-02-25T14:46:49Z",
+				"channelId": "UCg60QRUSvLZMF4zHv2ajBqA",
+				"title": "Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]",
+				"description": "In this video, I will show you the 10 major types of commands you can give ChatGPT so you can get the most out of the most ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/jHv63Uvk5VA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/jHv63Uvk5VA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/jHv63Uvk5VA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Santrel Media",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-02-25T14:46:49Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "cqx_OIVC6-w1iZPY43e4CamhEvM",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "-fopYsgFdzc"
+			},
+			"snippet": {
+				"publishedAt": "2023-03-31T15:00:01Z",
+				"channelId": "UCIxLxlan8q9WA7sjuq6LdTQ",
+				"title": "10 ChatGPT Life Hacks - THAT’LL CHANGE YOUR LIFE !!",
+				"description": "Hey guys! Welcome back to Hayls World! Today's video is all about ChatGPT and how it can change your life! In \"10 ChatGPT Life ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/-fopYsgFdzc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/-fopYsgFdzc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/-fopYsgFdzc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Hayls World",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-03-31T15:00:01Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "-cC45GnHWshM0w7P8WhN2YIUaZY",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "aTmLKc82pxE"
+			},
+			"snippet": {
+				"publishedAt": "2023-04-11T14:00:01Z",
+				"channelId": "UCZZ4ivUawsXRktLKej8d6Xw",
+				"title": "ChatGPT: What most people don&#39;t know",
+				"description": "What most people don't know about ChatGPT Follow me on social media! (it's always just @mikeobrienn) Instagram: ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/aTmLKc82pxE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/aTmLKc82pxE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/aTmLKc82pxE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Mike O'Brien",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-04-11T14:00:01Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "KmhiDtih2qj1aV0jSHCfcTWy7tI",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "40Kp_fa8vIw"
+			},
+			"snippet": {
+				"publishedAt": "2022-12-10T06:02:54Z",
+				"channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+				"title": "What is ChatGPT and How You Can Use It",
+				"description": "What is ChatGPT, and will it change everything? How Chat GPT is AI future... (and I think it's smarter than me). In this video I'll ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/40Kp_fa8vIw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/40Kp_fa8vIw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/40Kp_fa8vIw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Adrian Twarog",
+				"liveBroadcastContent": "none",
+				"publishTime": "2022-12-10T06:02:54Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "1nRRa5DzoN3Q0B_Jq4O15Y7ahIU",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "o5MutYFWsM8"
+			},
+			"snippet": {
+				"publishedAt": "2022-12-14T14:00:32Z",
+				"channelId": "UCWIh8oCINUfP6JSDurR4Kcw",
+				"title": "What is ChatGPT? OpenAI&#39;s Chat GPT Explained",
+				"description": "What is ChatGPT? OpenAI's Chat GPT Explained. What is Chat GPT? What is OpenAI? Who Founded open ai? What is Chat GPT ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/o5MutYFWsM8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/o5MutYFWsM8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/o5MutYFWsM8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "How It Happened",
+				"liveBroadcastContent": "none",
+				"publishTime": "2022-12-14T14:00:32Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "RlR0nOeeDScb-xggi7myW33p5TQ",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "pOmpqdlVCoo"
+			},
+			"snippet": {
+				"publishedAt": "2023-02-02T17:00:30Z",
+				"channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
+				"title": "Why OpenAI’s ChatGPT Is Such A Big Deal",
+				"description": "OpenAI, which Elon Musk helped to co-found back in 2015, is the San Francisco-based startup that created ChatGPT.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/pOmpqdlVCoo/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/pOmpqdlVCoo/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/pOmpqdlVCoo/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "CNBC",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-02-02T17:00:30Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "LUGgizGP-pxXOovuiTpb_WpqUd4",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "eg9qDjws_bU"
+			},
+			"snippet": {
+				"publishedAt": "2023-03-12T18:10:32Z",
+				"channelId": "UCscBNqS0bRU0uKTPwVK6QKQ",
+				"title": "Elon Musk&#39;s Brutally Honest Opinion on ChatGPT and His Involvement...",
+				"description": "The day AI will be smarter than humans is getting closer and closer. Elon Musk has been warning us for decades, yet few listened.",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/eg9qDjws_bU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/eg9qDjws_bU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/eg9qDjws_bU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "The not so boring Man",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-03-12T18:10:32Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "pWqlx36eQBkmteO0BHQtx7vpIXI",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "lGSGTrn5INA"
+			},
+			"snippet": {
+				"publishedAt": "2023-02-05T15:00:35Z",
+				"channelId": "UC0QHWhjbe5fGJEPz3sVb6nw",
+				"title": "Asking ChatGPT Tough Medical Questions",
+				"description": "Exclusive! Grab the NordVPN deal ➼ https://nordvpn.com/doctormike. Try it risk-free now with a 30-day money-back guarantee!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/lGSGTrn5INA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/lGSGTrn5INA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/lGSGTrn5INA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Doctor Mike",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-02-05T15:00:35Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "kANrvioXZmJywwH866b2TOWraSI",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "RdAQnkDzGvc"
+			},
+			"snippet": {
+				"publishedAt": "2023-02-15T13:00:15Z",
+				"channelId": "UC1JAwKeDUjN2orv5t7LWODQ",
+				"title": "Testing the limits of ChatGPT and discovering a dark side",
+				"description": "As more people discover ChatGPT's artificial intelligence, KARE 11's Chris Hrapsky checks out its capabilities and limitations, and ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/RdAQnkDzGvc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/RdAQnkDzGvc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/RdAQnkDzGvc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "KARE 11",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-02-15T13:00:15Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "N0l2Ktmm9-yW6Y3hIIu6KhXPWLk",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "JTxsNm9IdYU"
+			},
+			"snippet": {
+				"publishedAt": "2022-12-12T10:52:13Z",
+				"channelId": "UCvM5YYWwfLwpcQgbRr68JLQ",
+				"title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners",
+				"description": "This ChatGPT Tutorial is a Crash Course on Chat GPT for Beginners. With the increase in popularity, ChatGPT is still unknown to ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/JTxsNm9IdYU/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/JTxsNm9IdYU/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/JTxsNm9IdYU/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Adrian Twarog",
+				"liveBroadcastContent": "none",
+				"publishTime": "2022-12-12T10:52:13Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "MrSYlsEET_GqzJu_X-6ZC_wEpbI",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "nY234RoQeHw"
+			},
+			"snippet": {
+				"publishedAt": "2023-03-20T22:17:01Z",
+				"channelId": "UCGy7SkBjcIAgTiwkXEtPnYg",
+				"title": "I Asked ChatGPT To Make Me As Much Money As Possible",
+				"description": "I Asked ChatGPT-4 To Make Me As Much Money As Possible: ▻ Receive up to 17 free stocks via Moomoo US (For Australians, ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/nY234RoQeHw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/nY234RoQeHw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/nY234RoQeHw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Andrei Jikh",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-03-20T22:17:01Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "Bdgi2_u-YUjhfGDblc_0-iLPSPA",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "iq0yUvMstt0"
+			},
+			"snippet": {
+				"publishedAt": "2023-04-11T17:12:46Z",
+				"channelId": "UCL-R6H88Ou6XsGx3zDus4IA",
+				"title": "Kids with ChatGPT be like",
+				"description": "BENBROS channel membership https://bit.ly/2HHWSIz ◅ ▻ Join my Discord Server https://discord.gg/X3RvzVwVew ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/iq0yUvMstt0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/iq0yUvMstt0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/iq0yUvMstt0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "BENBROS",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-04-11T17:12:46Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "mgu9o8sVXeH2Y9cmmdL_oSCF8tk",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "3ao7Z8duDXc"
+			},
+			"snippet": {
+				"publishedAt": "2023-01-24T13:30:01Z",
+				"channelId": "UCsvqVGtbbyHaMoevxPAq9Fg",
+				"title": "Chat GPT Explained in 5 Minutes | What Is Chat GPT ? | Introduction To Chat GPT | Simplilearn",
+				"description": "Artificial Intelligence Engineer Master's Course (Discount Coupon: YTBE15): ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/3ao7Z8duDXc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/3ao7Z8duDXc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/3ao7Z8duDXc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Simplilearn",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-01-24T13:30:01Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "ihd9lQGLg3YS3yjFFS5ji5-jBUc",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "BWCCPy7Rg-s"
+			},
+			"snippet": {
+				"publishedAt": "2023-01-15T14:30:05Z",
+				"channelId": "UC16niRr50-MSBwiO3YDb3RA",
+				"title": "What is ChatGPT, the AI software taking the internet by storm? - BBC News",
+				"description": "ChatGPT is a viral sensation which is taking the internet by storm. From writing essays to composing poetry and limericks, the ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/BWCCPy7Rg-s/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/BWCCPy7Rg-s/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/BWCCPy7Rg-s/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "BBC News",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-01-15T14:30:05Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "KIt8vR14ZIdRO2qyW_o7qLWnjcY",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "ThtX0nJGiE0"
+			},
+			"snippet": {
+				"publishedAt": "2023-04-12T12:59:49Z",
+				"channelId": "UCpFio7jSO7H6Q2gM6dguJ6g",
+				"title": "ChatGPT &amp; 10 AI Tools For YouTube Automation That Will Pay You $1000 Per Day | Make Money Online",
+				"description": "Start your completely free 30 Day trial with Epidemic Sound Today! https://share.epidemicsound.com/mrreisAPR23 ▻ Subscribe ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ThtX0nJGiE0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ThtX0nJGiE0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ThtX0nJGiE0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Mr Reis",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-04-12T12:59:49Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "NvUCvpgBV8ceiU9snCPbcmarzwo",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "sTeoEFzVNSc"
+			},
+			"snippet": {
+				"publishedAt": "2023-01-13T17:00:09Z",
+				"channelId": "UCWv7vMbMWH4-V0ZXdmDpPBA",
+				"title": "ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity",
+				"description": "Learn how to use ChatGPT to 10x your productivity! 38 examples using Python, JavaScript, HTML, CSS, React, SQL and more!",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/sTeoEFzVNSc/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/sTeoEFzVNSc/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/sTeoEFzVNSc/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Programming with Mosh",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-01-13T17:00:09Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "M4Mp4WkfAv6EwAGQ0YudL2oMKoo",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "-SV0D15Bg_Y"
+			},
+			"snippet": {
+				"publishedAt": "2023-02-22T01:11:57Z",
+				"channelId": "UCXAWX5r69jcqPTNAhXCSA7Q",
+				"title": "you&#39;ve been lied to about ChatGPT",
+				"description": "Get Up To 70% Yearly Returns With CryptoSea's AI Trading Algorithm Check it out! https://bit.ly/emz-cryptosea ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/-SV0D15Bg_Y/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/-SV0D15Bg_Y/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/-SV0D15Bg_Y/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Elon Musk Zone",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-02-22T01:11:57Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "6fN3O9od1gB5vF0mDMmh33HTTcI",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "bS88NVwzeig"
+			},
+			"snippet": {
+				"publishedAt": "2023-03-31T01:34:20Z",
+				"channelId": "UCbY9xX3_jW5c2fjlZVBI4cg",
+				"title": "This is Why GPT 5 Will Change The World (CHAT GPT 5)",
+				"description": "This is Why GPT 5 Will Change The World (CHAT GPT 5) In this video, we explore the exciting potential of GPT-5 and how it could ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/bS88NVwzeig/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/bS88NVwzeig/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/bS88NVwzeig/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "TheAIGRID",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-03-31T01:34:20Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "46Bg6SsS8cpl2jVKqqNDSvixui4",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "L_Guz73e6fw"
+			},
+			"snippet": {
+				"publishedAt": "2023-03-25T18:03:21Z",
+				"channelId": "UCSHZKyawb77ixDdsGog4iWA",
+				"title": "Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367",
+				"description": "Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, DALL-E, Codex, and many other state-of-the-art AI ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/L_Guz73e6fw/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/L_Guz73e6fw/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/L_Guz73e6fw/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Lex Fridman",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-03-25T18:03:21Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "RDidEX5QR_bEbhyrzvmSpXYsTwY",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "XbwNeK7by8o"
+			},
+			"snippet": {
+				"publishedAt": "2023-03-26T00:39:39Z",
+				"channelId": "UCShBd7dtD2H5Ue83jJTo1DA",
+				"title": "太疯狂了！ChatGPT这个自动赚钱机器，竟然这么神奇！让你轻松快速月赚$8000，全新方法不需要任何经验和技术，ChatGPT带你轻松在家赚钱…已经有人已经赚翻了！",
+				"description": "太疯狂了！ChatGPT这个自动赚钱机器，竟然这么神奇！让你轻松快速月赚$8000，全新方法不需要任何经验和技术，ChatGPT带你 ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/XbwNeK7by8o/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/XbwNeK7by8o/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/XbwNeK7by8o/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "澳洲Henry",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-03-26T00:39:39Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"etag": "3b2IGDMYPfUeN_YQ5xdPxugJ-18",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "mUkTz_1uzSs"
+			},
+			"snippet": {
+				"publishedAt": "2022-12-17T20:27:06Z",
+				"channelId": "UCDvOpAypNQv8uOZ3wLNdECg",
+				"title": "Jordan Peterson&#39;s Disturbing Warning About AI and ChatGPT...",
+				"description": "Jordan Peterson's Disturbing Warning About AI and ChatGPT... Jordan Peterson recently spoke on the power of AI, particularly the ...",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/mUkTz_1uzSs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/mUkTz_1uzSs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/mUkTz_1uzSs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "Modern Wisdom",
+				"liveBroadcastContent": "none",
+				"publishTime": "2022-12-17T20:27:06Z"
+			}
+		}
+	]
+}
