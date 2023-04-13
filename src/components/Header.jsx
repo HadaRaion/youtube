@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
+import { BsYoutube, BsSearch } from 'react-icons/bs';
 
 export default function Header() {
 	const [text, setText] = useState('');
@@ -18,19 +19,23 @@ export default function Header() {
 	};
 
 	return (
-		<header>
-			<h1>
-				<span></span>Youtube
-			</h1>
-			<form onSubmit={handleSubmit}>
+		<header className="w-full flex p-4 mb-4 text-2xl border-b border-zinc-600">
+			<Link to="/" className="flex items-center">
+				<BsYoutube className="text-4xl text-brand" />
+				<h1 className="font-bold text-3xl ml-2">Youtube</h1>
+			</Link>
+
+			<form className="w-full flex justify-center" onSubmit={handleSubmit}>
 				<input
-					className="bg-gray-950 p-1"
+					className="bg-gray-950 p-2 w-7/12 outline-none text-gray-50"
 					type="text"
 					placeholder="Search..."
 					value={text}
 					onChange={handleChange}
 				/>
-				<button type="submit">검색</button>
+				<button className="bg-zinc-600 p-4" type="submit">
+					<BsSearch />
+				</button>
 			</form>
 		</header>
 	);
