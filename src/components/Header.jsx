@@ -1,22 +1,19 @@
-import { useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import { BsYoutube, BsSearch } from 'react-icons/bs';
 
 export default function Header() {
+	const { query } = useParams();
 	const [text, setText] = useState('');
 	const navigate = useNavigate();
 
 	const handleChange = e => setText(e.target.value);
 	const handleSubmit = e => {
 		e.preventDefault();
-
-		if (text.trim().length === 0) {
-			return;
-		}
-
 		navigate(`videos/${text}`);
-		setText('');
 	};
+
+	useEffect(() => setText(query || ''), [query]);
 
 	return (
 		<header className="w-full flex p-4 mb-4 text-2xl border-b border-zinc-600">
