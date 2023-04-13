@@ -1,27 +1,16 @@
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { Outlet } from 'react-router-dom';
+import Header from './components/Header';
 import './App.css';
 
-import Root from './pages/Root';
-import Home from './pages/Home';
-import Videos from './pages/Videos';
-import VideoDetail from './pages/VideoDetail';
-import NotFound from './pages/NotFound';
-
-const router = createBrowserRouter([
-	{
-		path: '/',
-		element: <Root />,
-		errorElement: <NotFound />,
-		children: [
-			{ index: true, element: <Home /> },
-			{ path: 'videos/:query', element: <Videos /> },
-			{ path: 'videos/watch/:videoId', element: <VideoDetail /> },
-		],
-	},
-]);
-
 function App() {
-	return <RouterProvider router={router} />;
+	return (
+		<div className="min-h-screen flex flex-col items-center bg-gray-700 text-white">
+			<Header />
+			<div id="detail">
+				<Outlet />
+			</div>
+		</div>
+	);
 }
 
 export default App;
